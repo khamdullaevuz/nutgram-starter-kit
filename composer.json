@@ -1,0 +1,13 @@
+{
+  "require": {
+    "nutgram/nutgram": "^4.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    },
+    "files": [
+      "helpers.php"
+    ]
+  }
+}
